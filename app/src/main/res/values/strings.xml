@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines Project</string>
+    <string name="btn_clicked_text">Click me</string>
+    <string name="tv_second_text">Life cycle scopes</string>
+</resources>
